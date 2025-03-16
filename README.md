@@ -77,4 +77,4 @@ Clean and Readable Code: Uses modern JavaScript best practices.
 Minimal and Responsive UI: Styled with CSS for a clean look and better user experience.
 
 ## Deployment:
-The site is hosted at: [Live Demo](https://cyrylretuta.github.io/laboratory-2/)
+The site is hosted at: [Live Demo](https://cyrylretuta.github.io/laboratory-3/)
