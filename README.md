@@ -53,15 +53,17 @@
 ## Screenshots
 
 1️⃣ Adding a Task:
-![Screenshot](lab2_chrome.png)
+![Screenshot](adding.png)
 
 
 2️⃣ Editing a Task:
-![Screenshot](lab2_chrome.png)
+![Screenshot](editing.png)
 
 
 3️⃣ Deleting a Task:
-![Screenshot](lab2_chrome.png)
+![Screenshot](deleting.png)
+![Screenshot](deleted.png)
+
 
 
 ## Code Quality
