@@ -52,15 +52,15 @@
 
 ## Screenshots
 
-1️⃣ Adding a Task:
+Adding a Task:
 ![Screenshot](adding.png)
 
 
-2️⃣ Editing a Task:
+Editing a Task:
 ![Screenshot](editing.png)
 
 
-3️⃣ Deleting a Task:
+Deleting a Task:
 ![Screenshot](deleting.png)
 ![Screenshot](deleted.png)
 
